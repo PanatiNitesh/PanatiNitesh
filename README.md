@@ -1,7 +1,11 @@
 # 👋 Hi there, I'm Nitesh Reddy ✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="600"
+    style="border-radius: 50px; border: 5px solid rgba(0, 0, 0, 0.6);" 
+  />
 </div>
 
 ## 🚀 About Me
