@@ -92,5 +92,5 @@ A secure banking application that manages user accounts, transactions, and loan 
 📩 **Reach out to me at:** *niteshreddy242005@gmail.com*
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PanatiNitesh&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=PanatiNiteshReddy&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
