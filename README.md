@@ -87,7 +87,7 @@ A secure banking application that manages user accounts, transactions, and loan 
   </a>
 </div>
 <br/>
-🌐 Portfolio:(https://Nitesh.github.io/portfolio)
+Portfolio:(https://Nitesh.github.io/portfolio)
 
 📩 **Reach out to me at:** *niteshreddy242005@gmail.com*
 
