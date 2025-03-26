@@ -67,7 +67,7 @@ A secure banking application that manages user accounts, transactions, and loan 
 ## 🔥 Tech Stack
 
 ```text
-💻 Frontend    | React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS
+💻 Frontend    | React, Next.js, JavaScript, HTML5, Tailwind CSS
 🗄️ Backend     | Node.js, Express, Java Spring Boot
 🛢️ Database    | MongoDB, MySQL, PostgreSQL
 🔧 Tools       | Git, GitHub, Docker, AWS
