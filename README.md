@@ -11,35 +11,35 @@
 ## 🚀 About Me
 I'm a passionate developer with expertise in web development and programming. I love creating innovative solutions and exploring new technologies.
 
-## 💻 Skills
+## 🚀 Technical Skills
 
-### Programming Languages
+### 💻 Programming Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
 </div>
 
-### Web Development
+### 🌐 Web Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/>
 </div>
 
-### Design Tools & DevOps
+### 🎨 Design & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
 </div>
 
 <div align="center">
