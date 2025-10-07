@@ -23,15 +23,13 @@
 - 🌐 **Portfolio:** [niteshportfolio-07.vercel.app](https://niteshportfolio-07.vercel.app/)  
 
 </div>
-
-
-## 🚀 Technical Skills
+<h2 align="center">🚀 <b>Technical Skills</b></h2>
 
 ### Software Development Languages And Domains
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="55" height="55"/>
 </div>
 
 <div align="center">
@@ -76,14 +74,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PanatiNitesh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Nitesh's GitHub stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanatiNitesh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=PanatiNitesh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Nitesh's GitHub stats"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanatiNitesh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=PanatiNitesh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=PanatiNitesh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -93,7 +91,7 @@
 </div>
 
 ## 🌟 Connect With Me
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/nitesh-reddy-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -104,6 +102,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
+
 <br/>
 
 📩 **Reach out to me at:** niteshreddy242005@gmail.com
