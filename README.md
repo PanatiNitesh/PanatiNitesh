@@ -25,7 +25,7 @@
 </div>
 <h2 align="center">🚀 <b>Technical Skills</b></h2>
 
-### Software Development Languages And Domains
+### Programming & Development Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55"/>
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="55" height="55"/>
