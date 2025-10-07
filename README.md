@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    width="700"
+    width="500"
     style="border-radius: 20px;" 
   />
   
@@ -12,16 +12,17 @@
 <br/>
 
 ## 💫 About Me
-<div align="center">
+<div align="left">
 
-- 🎓 **Computer Science Engineering Student** specializing in Data Science at Bangalore Institute of Technology (CGPA: 8.45)
-- 💼 **Full Stack Developer Intern** at JB Portals (Jan 2024 - April 2024) - Built responsive web applications using React, Node.js, and MongoDB
-- 🎓 **Diploma in CSE** from Karnataka Reddy Jana Sangha Polytechnic (CGPA: 9.02)
-- 💻 Passionate about **clean code architecture**, **user-centered design**, and **emerging technologies**
-- 🚀 Strong expertise in **JavaScript, React, Node.js**, **RESTful APIs**, and **modern web development**
-- 🌱 Currently learning **Generative AI** and expanding knowledge in **Data Structures & Algorithms**
-- 🎯 Seeking opportunities to contribute to **innovative solutions** that drive business value
-- 🌐 **Portfolio:** [niteshportfolio-07.vercel.app](https://niteshportfolio-07.vercel.app/)
+- 🎓 **Computer Science Engineering Student** specializing in Data Science at Bangalore Institute of Technology (CGPA: 8.45)  
+- 💼 **Full Stack Developer Intern** at JB Portals (Jan 2024 - April 2024) – Built responsive web applications using React, Node.js, and MongoDB  
+- 🎓 **Diploma in CSE** from Karnataka Reddy Jana Sangha Polytechnic (CGPA: 9.02)  
+- 💻 Passionate about **clean code architecture**, **user-centered design**, and **emerging technologies**  
+- 🚀 Strong expertise in **JavaScript, React, Node.js**, **RESTful APIs**, and **modern web development**  
+- 🎯 Seeking opportunities to contribute to **innovative solutions** that drive business value  
+- 🌐 **Portfolio:** [niteshportfolio-07.vercel.app](https://niteshportfolio-07.vercel.app/)  
+
+</div>
 
 
 ## 🚀 Technical Skills
