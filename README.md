@@ -20,7 +20,7 @@
 - 💻 Passionate about **clean code architecture**, **user-centered design**, and **emerging technologies**  
 - 🚀 Strong expertise in **JavaScript, React, Node.js**, **RESTful APIs**, and **modern web development**  
 - 🎯 Seeking opportunities to contribute to **innovative solutions** that drive business value  
-- 🌐 **Portfolio:** [niteshportfolio-07.vercel.app](https://niteshportfolio-07.vercel.app/)  
+- 🌐 **Portfolio:** [niteshreddydev.vercel.app](https://niteshreddydev.vercel.app)
 
 </div>
 <h2 align="center">🚀 <b>Technical Skills</b></h2>
