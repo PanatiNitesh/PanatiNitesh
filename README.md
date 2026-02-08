@@ -70,25 +70,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </div>
-
-## 📊 GitHub Stats
-
+---
+<br/><br/>
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=PanatiNitesh&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Nitesh's GitHub stats"/>
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanatiNitesh&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=PanatiNitesh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Nitesh Contribution Graph"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=PanatiNitesh&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PanatiNitesh&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
 
 ## 🌟 Connect With Me
 <div align="center">
@@ -103,15 +91,11 @@
   </a>
 </div>
 
-<br/>
-
 📩 **Reach out to me at:** niteshreddy242005@gmail.com
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PanatiNitesh&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-
----
 
 <div align="center">
   <i>💡 "Clean code always looks like it was written by someone who cares."</i>
