@@ -14,9 +14,9 @@
 ## 💫 About Me
 <div align="left">
 
-- 🎓 **Computer Science Engineering Student** specializing in Data Science at Bangalore Institute of Technology (CGPA: 8.45)  
+- 🎓 **Computer Science Engineering Student** specializing in Data Science at Bangalore Institute of Technology
 - 💼 **Full Stack Developer Intern** at JB Portals (Jan 2024 - April 2024) – Built responsive web applications using React, Node.js, and MongoDB  
-- 🎓 **Diploma in CSE** from Karnataka Reddy Jana Sangha Polytechnic (CGPA: 9.02)  
+- 🎓 **Diploma in CSE** from Karnataka Reddy Jana Sangha Polytechnic 
 - 💻 Passionate about **clean code architecture**, **user-centered design**, and **emerging technologies**  
 - 🚀 Strong expertise in **JavaScript, React, Node.js**, **RESTful APIs**, and **modern web development**  
 - 🎯 Seeking opportunities to contribute to **innovative solutions** that drive business value  
