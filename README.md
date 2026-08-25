@@ -1,12 +1,16 @@
 <div align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    width="460"
-    style="border-radius: 20px;" 
-  />
 
-  <h1>Hey there 👋, I'm Nitesh Reddy</h1>
-  <h3>Full Stack Developer | SIH 2025 Winner | Problem Solver</h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Coding Animation" />
+
+<h1>Hey there 👋, I'm Nitesh Reddy</h1>
+
+<h3>Full Stack Developer | SIH 2025 Winner | Problem Solver</h3>
+
+<br/>
+
+<a href="https://niteshreddydev.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-000000?style=for-the-badge"/> </a>
+<a href="https://www.linkedin.com/in/nitesh-reddy-dev/" target="_blank"> <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
 </div>
 
 <br/>
