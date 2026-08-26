@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Coding Animation" />
 
-<h1>Hey there 👋, I'm Nitesh Reddy</h1>
+<h1>Hey there 👋, I'm Nitesh </h1>
 
 <h3>Full Stack Developer | SIH 2025 Winner | Problem Solver</h3>
 
