@@ -116,11 +116,23 @@ Currently focused on **clean architecture, performance, and real-world problem s
 
 <h2 align="center">📊 GitHub Activity</h2>
 
+
 <div align="center">
-  <img 
-    width="92%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PanatiNitesh&theme=tokyo-night&hide_border=true&area=true&custom_title=Nitesh%20Reddy%27s%20Contribution%20Graph"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/signal-field-wide-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/signal-field-wide-light.svg"
+    />
+    <img
+      src="./profile/signal-field-wide-light.svg"
+      width="92%"
+      alt="GitHub Activity"
+    />
+  </picture>
 </div>
 
 <br/>
