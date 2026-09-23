@@ -1,0 +1,29 @@
+name: Generate GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub profile stats
+        uses: shinpr/github-profile-stats@main
+        with:
+          username: PanatiNitesh
+          token: ${{ github.token }}
+          profile: signal-field
+
+      - name: Commit generated stats
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Update GitHub stats"
+          file_pattern: "profile/*.svg"
