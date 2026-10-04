@@ -14,9 +14,8 @@
 </div>
 
 <br/>
-
-## 💫 About Me
-
+<h2 align="center">⚡ Developer Snapshot
+</h2>
 <div align="center">
 
 I’m a **Computer Science (Data Science)** student at **Bangalore Institute of Technology**  
@@ -28,12 +27,10 @@ where I built modern web solutions using **React, Node.js, and REST APIs**.
 
 Currently focused on **clean architecture, performance, and real-world problem solving**.
 
-🌐 Portfolio: **[niteshreddydev.vercel.app](https://niteshreddydev.vercel.app)**
 
 </div>
 
 <br/>
-
 <h2 align="center">🏆 Achievements & Highlights</h2>
 
 <div align="center">
@@ -49,7 +46,6 @@ Currently focused on **clean architecture, performance, and real-world problem s
 </div>
 
 <br/>
-
 <h2 align="center">🚀 Technical Skills</h2>
 
 ### 💻 Programming & Core Concepts
